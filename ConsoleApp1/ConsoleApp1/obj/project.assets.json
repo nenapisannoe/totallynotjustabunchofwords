@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nena\\Desktop\\Учёба\\Графика\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\nena\\Documents\\GitHub\\totallynotjustabunchofwords\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\nena\\Desktop\\Учёба\\Графика\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\nena\\Documents\\GitHub\\totallynotjustabunchofwords\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\nena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nena\\Desktop\\Учёба\\Графика\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\nena\\Documents\\GitHub\\totallynotjustabunchofwords\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nena\\AppData\\Roaming\\NuGet\\NuGet.Config",
