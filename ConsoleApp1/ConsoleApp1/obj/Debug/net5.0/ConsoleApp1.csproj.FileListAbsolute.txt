@@ -14,3 +14,11 @@ C:\Users\nena\Desktop\Учёба\Графика\ConsoleApp1\ConsoleApp1\obj\Debu
 C:\Users\nena\Desktop\Учёба\Графика\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
 C:\Users\nena\Desktop\Учёба\Графика\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
 C:\Users\nena\Desktop\Учёба\Графика\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\nena\Documents\GitHub\totallynotjustabunchofwords\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\nena\Documents\GitHub\totallynotjustabunchofwords\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nena\Documents\GitHub\totallynotjustabunchofwords\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\nena\Documents\GitHub\totallynotjustabunchofwords\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\nena\Documents\GitHub\totallynotjustabunchofwords\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\nena\Documents\GitHub\totallynotjustabunchofwords\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\nena\Documents\GitHub\totallynotjustabunchofwords\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\nena\Documents\GitHub\totallynotjustabunchofwords\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
